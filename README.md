@@ -14,7 +14,7 @@ This program relies on selenium which can be installed via pip:
 
 
 ## Required URL
-This program is designed to scrap data from web archive website. e.g:
-[running tests](http://web.archive.org/web/20220601000513/https://coinmarketcap.com/)
+This program is designed to scrap data from web archive website.
+[Sample URL](http://web.archive.org/web/20220601000513/https://coinmarketcap.com/)
 
 
